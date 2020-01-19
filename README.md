@@ -40,7 +40,7 @@ The script will stop at the first line with an empty `name` cell
 ---
 
 Running the function `setTriggers()` will ensure that the script is run every day at the hour specified by `sendHour` in `getStatics()`. If you change `sendHour`, make sure you run `setTriggers()` again.  
-**Do not change the trigger manually from outside the script** as that will not change what the script sees as the right time to send the SMS, and you may have it send remminders a day late.
+**:warning:Do not change the trigger manually from outside the script** as that will not change what the script sees as the right time to send the SMS, and you may have it send remminders a day late.
 
 ### Using an SMS api
 
