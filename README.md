@@ -1,5 +1,6 @@
 # SMSReminder
-A Google Apps script to send SMS reminders automatically
+A Google Apps script to send SMS reminders automatically  
+This project was made for a non-profit association
 
 ## Instructions for use
 1) Create a [Google Spreadsheet](https://docs.google.com/spreadsheets/) using your Google Account
